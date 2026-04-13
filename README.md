@@ -1,18 +1,21 @@
-# 🛒 E-Commerce Website using Django
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Django](https://img.shields.io/badge/Django-Framework-green)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
 
-This is a full-stack e-commerce web application built with Django, designed for a smooth and secure online shopping experience. It includes essential features like product browsing, user authentication, cart management, and an admin dashboard for product control.
+# 🛒 Dockerized Django E-Commerce Application
 
+This is a Dockerized full-stack e-commerce web application built using Django.  
+It supports product browsing, user authentication, cart management, and admin-based product control.  
+The project demonstrates real-world web development and containerization practices.
 ---
 
-## 🚀 Features
+## 🚀 DevOps Features
 
-- 👤 User Registration & Login (with session management)
-- 🛍️ Product Listings by Category
-- 🛒 Add to Cart / Remove from Cart
-- 💳 Checkout System
-- 🔐 Admin Panel for Product Management
-- 📦 Order History
-- 📱 Responsive UI (HTML, CSS, Bootstrap)
+- Dockerized Django application
+- Environment-based dependency management
+- Ready for cloud deployment (AWS / Azure)
+- Structured project layout
+- Production-ready container support
 
 ---
 
@@ -106,7 +109,7 @@ I'm Madhusudhan Reddy, an aspiring DevOps & Cloud Engineer who loves building re
 
 🔗 https://www.linkedin.com/in/madhusudhan-reddy-8143a5234
 
-📧 bgmadhu4142@gmail.com
+📧 madhusudhanreddy9740@gmail.com
 
 
 
